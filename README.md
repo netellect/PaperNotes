@@ -1,7 +1,17 @@
 PaperNotes V1.0.8
 =================
 
-Package Title:
+PaperNotes is a tiny Windows application developed in Visual Basic.
+PNLib is an ActiveX control implementing 'sticky notes' interface. It can be utilized separately from PaperNotes in any Windows application capable of using ActiveX.
+
+Preview
+=========
+http://vbrocks.net.s3-website-us-east-1.amazonaws.com/downloads/PaperNotes.htm
+
+Deployment package
+===================
+
+Compiled Package Title:
 PNsetup.exe
 
 Files included in the Package:
@@ -23,10 +33,6 @@ The following two files are normally not required. They are installed by Visual 
 runtime setup (vbrun60sp3.exe) distributed by Microsoft.
 VB6STKIT.DLL
 COMCAT.DLL
-
-Preview
-------------
-http://vbrocks.net.s3-website-us-east-1.amazonaws.com/downloads/PaperNotes.htm
 
 
 Requirements
