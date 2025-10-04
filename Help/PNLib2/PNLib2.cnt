@@ -1,0 +1,6 @@
+:Base PNLib2.hlp >Main
+:Title PaperNotes PNLib Library Version 2
+1 NoteLibrary=LIBRARY_NoteLibrary
+1 Objects
+2 Note=IDH_OBJECT_Note
+2 Notes=IDH_OBJECT_Notes

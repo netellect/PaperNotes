@@ -1,0 +1,20 @@
+; TypeLib Documentor.
+[OPTIONS]
+COMPRESS=12 Hall Zeck
+LCID=0x809 0x0 0x0 ; English (United Kingdom)
+REPORT=Yes
+FTS=3
+CONTENTS=LIBRARY_NoteLibrary
+CNT=PNLib2.cnt
+COPYRIGHT=Built by The TypeLib Documentor V0.5 alpha (C) 1999 Codestone Ltd.
+CITATION=(C) 1999 Codestone Ltd
+HLP=PNLib2.hlp
+[FILES]
+PNLib2.rtf
+[MAP]
+#include PNLib2.h
+[WINDOWS]
+LangRef=,(452,101,561,606),20740,(r14876671),(r12632256)
+Main=,,27904,(r14876671),(r12632256),f2
+[CONFIG]
+BrowseButtons()

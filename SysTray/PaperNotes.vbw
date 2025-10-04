@@ -1,0 +1,4 @@
+modSysTray = 0, 0, 0, 0, C
+frmIcon = 0, 0, 0, 0, C, 26, 26, 855, 503, C
+modFileOps = 78, 78, 1030, 682, C
+frmOptions = 0, 0, 0, 0, C, 52, 52, 881, 529, C

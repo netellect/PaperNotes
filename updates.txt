@@ -1,0 +1,18 @@
+2/18/2003:
+pnotes2.dll 
+from 1.0.0.8 to 1.0.0.9
+- key not uniqie in the collection problem- fixed (thanks to Tim Barlow  tjb_au@yahoo.com.au).
+
+8/03/2003:
+pnotes2.dll
+from 1.0.0.9 to 1.0.0.10 - still beta
+- ctrl-A added
+- ctrl-S added
+- fonts added
+- custom color added
+- modified some messageboxes to app.productname instead of app.title
+- added error handling to some procedures
+
+1.0.0.11 - became 1.0.8 product version
+- fixed fonts so they work better
+- added TextColor property to clsNote object

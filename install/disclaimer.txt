@@ -1,0 +1,39 @@
+PaperNotes V1.0.8
+=================
+
+Disclaimer
+----------
+This product is supplied AS IS. 
+That means I support this product on my free will only. No upgrades, patches
+or other stuff is provided on a regular basis.
+I also bear no responsibilities for any damage to the software installed on
+your PC caused by any actions when using this product. This product does not
+use network hardware or software but if you somehow break up your network I will
+have no obligations to fix the network, any software on your PC, or this product.
+I also cannot be responsible for any damage to the data stored within the
+files created or used by this product. For example, if you store your credit card
+numbers in the Paper Notes (just like I do ;) ) and you happen to reinstall your
+operating system - the Windows Registry may be overwritten along with the data
+stored in it, such as Paper Notes data. So before killing your Registry, do not
+forget to Export data from Paper Notes to a plain text file.
+
+Don't hesitate to drop me an e-mail, I'll be happy to read your opinion about
+the program.
+
+Contacts
+--------
+In case you have any questions about this product please direct them to one (or
+better both) of my e-mail addresses: vladkozin@hotmail.com, vlad@pixeltran.com.
+You can also check my web site at WWW.VLADWARE.COM/downloads in case I have some
+news for you or there is a newer version of the program available for download.
+
+
+Copyrights
+----------
+'Paper Notes' and 'PNLib' names are my sole property. Other product names or trademarks
+are the property of their respective owners.
+
+
+Best regards,
+Vlad Kozin
+May 2002 - December 2003.
