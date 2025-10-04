@@ -24,6 +24,10 @@ runtime setup (vbrun60sp3.exe) distributed by Microsoft.
 VB6STKIT.DLL
 COMCAT.DLL
 
+Preview
+------------
+http://vbrocks.net.s3-website-us-east-1.amazonaws.com/downloads/PaperNotes.htm
+
 
 Requirements
 ------------
