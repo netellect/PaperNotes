@@ -30,6 +30,8 @@ Requirements
 Works on Win2K, WinNT, Win98, WinME, WinXP.
 Should work on Win95 but not tested.
 
+**AS OF October 2025: runs nicely on Windows 2000, Windows 7, Windows 8, Windows 10, Windows 11. :)**
+
 
 Installation
 ------------
