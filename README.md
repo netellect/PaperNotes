@@ -4,8 +4,8 @@ PaperNotes V1.0.8
 PaperNotes is a tiny Windows application developed in Visual Basic.
 PNLib is an ActiveX control implementing 'sticky notes' interface. It can be utilized separately from PaperNotes in any Windows application capable of using ActiveX.
 
-Preview
-=========
+Screenshots, etc
+================
 http://vbrocks.net.s3-website-us-east-1.amazonaws.com/downloads/PaperNotes.htm
 
 Deployment package
@@ -154,7 +154,4 @@ Copyrights
 'Paper Notes' and 'PNLib' belong to me. Other product names or trademarks
 are the property of their respective owners.
 
-
-Best regards,
-Vlad Kozin
 May 2002.
