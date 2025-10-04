@@ -134,16 +134,12 @@ e-mail and explain the purpose for what you are going to use it :)
 
 Contacts
 --------
-In case you have any questions about this product please direct them to one (or
-better both) of my e-mail addresses: vladkozin@hotmail.com, vlad@pixeltran.com.
-You can also check my web sites at WWW.VLADWARE.COM or WWW.PIXELTRAN.COM in case
-I have some information for you or there is a newer version of the program
-available for download.
+In case you have any questions about this product please direct them to  my e-mail address: vlad(remove space)kozin(at)hotmail.com
 
 
 Copyrights
 ----------
-'Paper Notes' and 'PNLib' names are my sole property. Other product names or trademarks
+'Paper Notes' and 'PNLib' belong to me. Other product names or trademarks
 are the property of their respective owners.
 
 
